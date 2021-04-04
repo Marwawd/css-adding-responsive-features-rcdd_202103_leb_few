@@ -5,12 +5,12 @@
   #social{ position:absolute;width:auto;margin-top:82px ;margin-right: 4px ;}
  }
 @media only screen and (max-width=900px) {
-body{font-size: 85%;}  
+body{font-size: 85%;}
 #logo h1{height: 35px;width: 35px;}
 #logo h2{font-size: 2.2em}
 #social {margin-top:72px;}
 .col-3 p{column-count: 2}
-} 
+}
 /*900px
 Add a breakpoint for 900px in your responsive.css stylesheet
 Within this breakpoint:
